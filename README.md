@@ -34,6 +34,6 @@
 
 ## Файлы
 bug lifecycle
-![alt text](https://github.com/berpress/qa-knowledge-base/blob/main/images/2021-09-23 15.38.44.jpg?raw=true)
-![bug lifecycle](images/2021-09-23 15.38.44.jpg)
+
+![bug lifecycle](images/bug.jpg)
 
