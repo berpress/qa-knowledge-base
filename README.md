@@ -32,8 +32,10 @@
 
 🇷🇺 Как стать тестировщиком ПО / Все о QA / Интервью с Senior QA Engineer https://www.youtube.com/watch?v=NVqxL769c0U&t=5s
 
+🇷🇺 API для тестирования https://github.com/berpress/flask-restful-api
+
 ## Файлы
 bug lifecycle
-![alt text](https://github.com/berpress/qa-knowledge-base/blob/main/images/2021-09-23 15.38.44.jpg?raw=true)
-![bug lifecycle](images/2021-09-23 15.38.44.jpg)
+
+![bug lifecycle](images/bug.jpg)
 
