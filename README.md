@@ -34,5 +34,6 @@
 
 ## Файлы
 bug lifecycle
+
 ![bug lifecycle](images/2021-09-23 15.38.44.jpg)
 
