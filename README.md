@@ -34,6 +34,9 @@
 
 🇷🇺 API для тестирования https://github.com/berpress/flask-restful-api
 
+🇷🇺 Python api (пример) https://github.com/berpress/flask-restful-api
+
+
 ## Файлы
 bug lifecycle
 
