@@ -30,9 +30,13 @@
 ## Ссылки на youtube/книги/статьи
 🇷🇺 Start of API testing project JS https://www.youtube.com/watch?v=HmzT298UOy8&t=10s
 
+🇬🇧 UI для тестирования https://berpress.github.io/react-shop/ (описание: https://github.com/berpress/react-shop)
+
 🇷🇺 Как стать тестировщиком ПО / Все о QA / Интервью с Senior QA Engineer https://www.youtube.com/watch?v=NVqxL769c0U&t=5s
 
 🇷🇺 API для тестирования https://github.com/berpress/flask-restful-api
+
+🇷🇺 Руководство по git https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md
 
 ## Файлы
 bug lifecycle
